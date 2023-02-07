@@ -1,0 +1,61 @@
+/*-- scss:defaults --*/
+$link-color: #170A7D;
+
+
+/*-- scss:rules --*/
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  color: #333333;
+}
+
+h1 {
+  text-shadow: -1px -1px 0 rgba(0, 0, 0, .3);
+  text-align: center;
+}
+
+h2, h4 {
+  color: #2980b9;
+  border: none;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.quarto-title {
+  padding-bottom: 10px;
+  border-bottom: 0.5px solid #333333;
+}
+
+.banner {
+  font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  padding: 75px;
+  width: 100%;
+  height: 300px;
+  background-image: url('/assets/boulder_wide.jpg');
+  background-position: center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  text-shadow: 0 2px 1px rgba(0, 0, 0, 0.33);
+  margin-bottom: 20px;
+}
+
+.banner h1 {
+  font-size: 3em;
+  color: white;
+}
+
+.banner h2 {
+  font-size: 100%;
+  color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+.navbar-logo {
+  max-height: 48px;
+}

@@ -1,0 +1,16 @@
+{
+  "hash": "db04279517e278923f86869f45d25930",
+  "result": {
+    "markdown": "---\ntitle: Contact\nformat: html\n---\n\n\n\n\n\n__Dr. Gertrud K. Nürnberg__  \n__Dr. Bruce D. LaZerte__\n\n3421 Hwy 117, RR.1   \nBaysville, Ontario   \nP0B 1A0 Canada\n\n\n{{< fa phone >}} Phone: (705) 767-3718  \n{{< fa envelope >}} Email: <gkn@fwr.ca>\n\n{{< fa researchgate >}} ResearchGate: <http://www.researchgate.net/profile/Gertrud_Nurnberg>  \n{{< fa orcid >}} ORCID: <http://orcid.org/0000-0003-1752-6562>  \n{{< fa linkedin >}} LinkedIn: <https://www.linkedin.com/in/gertrud-nurnberg-70732625>\n\n",
+    "supporting": [
+      "contact_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

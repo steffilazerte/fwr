@@ -1,0 +1,57 @@
+project:
+  output-dir: "_site"
+  type: website
+  resources: "assets"
+  render:
+    - "*.qmd"
+
+filters:
+  - quarto
+
+website:
+  title: Freshwater Research
+  description: "Research-quality studies on lakes, reservoirs and watersheds"
+  site-url: "http://fwr.ca"
+  page-footer:
+    left: Developed by [Steffi LaZerte](https://steffilazerte.ca) with R and [Quarto](https://quarto.org)
+    right:
+      - text: "{{< fa envelope >}}"
+        href: mailto:gkn@fwr.ca
+      - text: "{{< fa brands linkedin >}}"
+        href: https://ca.linkedin.com/in/gertrud-nurnberg-70732625
+      - text: "{{< fa brands researchgate >}}"
+        href: https://www.researchgate.net/profile/Gertrud_Nurnberg
+  navbar:
+    title: false
+    search: true
+    logo: "/assets/fwrlogo.gif"
+    background: "white"
+    left:
+      - about.qmd
+      - contact.qmd
+      - text: CVs
+        menu:
+          - text: Gertrud's CV
+            href: cv_gertrud.qmd
+          - text: Bruce's CV
+            href: cv_bruce.qmd
+          - text: One-page company profile (pdf)
+            href: /assets/FWR_Profile.pdf
+          - text: Publication list (pdf)
+            href: assets/Publication%20List.pdf
+      - projects.qmd
+      - reports.qmd
+    right:
+      - text: "{{< fa envelope >}}"
+        href: mailto:gkn@fwr.ca
+      - text: "{{< fa brands linkedin >}}"
+        href: https://ca.linkedin.com/in/gertrud-nurnberg-70732625
+      - text: "{{< fa brands researchgate >}}"
+        href: https://www.researchgate.net/profile/Gertrud_Nurnberg
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+

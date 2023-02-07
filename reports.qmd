@@ -1,0 +1,194 @@
+---
+title: Reports
+toc: true
+---
+
+### 2020- {#y2020}
+
+__Freshwater Research__, 2022. Assessment of 2021 water quality in two of Moncton's drinking water reservoirs. For the City of Moncton, New Brunswick.
+
+--, 2022. Assessment of 2020 water quality in two of Moncton's drinking water reservoirs. For the City of Moncton, New Brunswick.
+
+--, 2022.  Assessment of Swan Lake restoration by chemical precipitation. For the The City of Markham, Ontario.
+
+--, 2021. Swan Lake water management plan. For the The City of Markham, Ontario.
+
+--, 2020. Swan Lake water quality management. For the The City of Markham, Ontario.
+
+--, 2020. Phosphorus mass balance for Serpentine Lake, London. For Royal Parks, London, UK.
+ 
+--, 2020. Lac Maskinongé (Mont-Tremblant): The estimation of phosphorus release from bottom sediments as internal loading for 2019. Memo for Groupe Hémisphères, Quebec.
+
+--, 2020. 2019 water quality assessment and climate impacts in two of Moncton's drinking water reservoirs. For the City of Moncton, New Brunswick.
+
+--, 2020. Cyanobacteria control in two Moncton drinking water reservoirs: critical evaluation of abatement options. For the City of Moncton, New Brunswick.
+
+
+### 2010-2019 {#y2010}
+
+__Freshwater Research__. 2019. Restoration options for two of Moncton’s drinking water reservoirs. For the City of Moncton, New Brunswick.
+
+--, 2019. The feasibility of a Phoslock treatment in the Pebley and Harthill reservoirs - a phosphorus mass balance analysis. Canal and River Trust, UK, England.
+
+--, 2018. Lac Maskinongé (Mont-Tremblant): The probability of phosphorus release from bottom sediments as internal loading. Memo for Groupe Hémisphères, Quebec.
+
+--, 2018. Water quality in two of Moncton’s, New Brunswick, drinking water reservoirs. For the City of Moncton, New Brunswick.
+
+--, 2018. Swan Lake water quality in 2017. The City of Markham, Ontario.
+
+--. 2017. Internal phosphorus load and effects on the carrying capacity in Leonard Lake, Muskoka, ON. Leonard Lake Stakeholders Association, Ontario.
+
+--. 2017. Internal phosphorus (P) load in Georgian Bay embayments: Sources and onshore-offshore productivity gradients. Lake Simcoe/South-Eastern Georgian Bay Clean-up Fund With funding from Environment and Climate Change Canada (ECCC).
+
+--. 2017. Assessment of the Coeur d’Alene, ID, Indian Reservation water quality management plan. Coeur d’Alene Tribe and Avista Corporation, Idaho, USA.  
+
+--. 2017. Phosphorus budget for Henderson Lake, Lethbridge, Alberta (2) - After a Phoslock (lanthanum modified clay) treatment. Phoslock Water Solutions Ltd, Sydney, NSW 2000, Australia.
+
+--. 2017. Swan Lake Water Quality four summers after a Phoslock Treatment in 2013 with special consideration of water fowl impacts. The City of Markham, Ontario.
+
+--. 2016. Phosphorus budget for Henderson Lake, Lethbridge, Alberta (1) - Before a treatment with Phoslock (lanthanum modified clay). Phoslock Water Solutions Ltd, Sydney, NSW 2000, Australia.
+
+--. 2016. Support for an update of the Lake Wilcox Interim Report Card. Town of Richmond Hill, Ontario.
+
+--. 2016 (Slide presentation). Phoslock (lanthanum modified clay), a novel lake treatment in Canada. British Columbia Ministry of Environment, Nanaimo, British Columbia.
+
+--. 2016. Evaluation of remediation options of Elk/Beaver Lake, Victoria BC. British Columbia Ministry of Environment, Nanaimo, British Columbia.
+
+--. 2015. Water quality and capacity for Long Lake, City of Greater Sudbury. Long Lake Stewardship, Sudbury, Ontario.
+
+--. 2015. Water quality in four Algoma watersheds based on monitoring in 2013-2015. Central Algoma Freshwater Coalition, Bruce Mines, Ontario.
+
+--. 2015. Influence of upwelling and onshore circulation of low oxygen water on the coastal water quality of the north shore of Lake Erie's Central Basin. Ontario Ministry of the Environment and Climate Change.
+
+--. 2015. Water Quality Assessment in the Thames River Watershed - Nutrient and Sediment Sources. The Upper Thames River Conservation Authority, London, Ontario.
+
+--. 2015. Gap analysis for nutrients in the LTVCA. The Lower Thames Valley Conservation Authority, Chatham, Ontario.
+
+--. 2015. Swan Lake water quality in the 2nd post-treatment year (2014) after the Phoslock treatment (29 April – 1 May 2013). The City of Markham, Ontario.
+
+--. 2014. Water Quality 2014 in Bright Lake (Pakawagamengan): Potential causes of the cyanobacteria bloom. The Bright Lake Association Inc, Iron Bridge, Ontario.
+
+--. 2014. Dragon Lake assessment of water quality degradation (causes and future trend) and management options. Ministry of Environment, Environmental Protection, Williams Lake, British Columbia.
+
+--. 2014. Evaluation of Polley Lake water quality degradation (causes and future trend) and the effect of proposed discharge of water from the Mount Polley Mine. Ministry of Environment, Environmental Protection, Williams Lake, British Columbia.
+
+--. 2014. 2013 Water quality after the Phoslock treatment in Swan Lake on 29 April – 1 May 2013. The City of Markham, Ontario.
+
+--. 2013. Water quality and development capacity for Lac des Écorces (Bark Lake), Quebec. The Town of Barkmere, Quebec and CCE, Bark Lake Environmental Committee (Ville de Barkmere et Comité consultative sur l'Environnement).
+
+--. 2013. Evaluation of Fish Lake mitigation as proposed in the Taseko Prosperity Gold-Copper Project. Ministry of Environment, Environmental Protection, Williams Lake, British Columbia.
+
+--. 2013. Water quality and remediation options for Desbarats Lake, Johnson Township. Central Algoma Freshwater Coalition, Bruce Mines, Ontario.
+
+--. 2013. Water quality and general limnological characteristics of the Day Lakes, Algoma. The Bright Lake Association Inc, Iron Bridge, Ontario.
+
+--. 2012. Water quality and remediation options for Swan Lake. The City of Markham, Ontario.
+
+--. 2012. Evaluation of hypolimnetic withdrawal as a possible treatment for the Bornsjön Reservoir internal phosphorus load. Stockholm Water Co, Stockholm, Sweden.
+
+--. 2012. Quantification of the internal phosphorus load in Lake Simcoe: Part 1. Analysis of historical monitoring data. Lake Simcoe Clean-Up Fund, Environment Canada.
+
+--. 2012. Water quality and remediation options for Lake Wilcox: Review and update of the “Lake Wilcox Remediation Strategy”. Town of Richmond Hill, Ontario.
+
+--. 2012. Water Quality for Caribou Lake in the Stobie Creek Watershed. Central Algoma Freshwater Coalition, Bruce Mines, Ontario.
+
+--. 2011. Lake Capacity Study for Bright and Basswood Lakes. Municipality of Huron Shores, Iron Bridge, Ontario.
+
+--. 2011. Water quality and remediation options for Bright Lake, Pakawagamengan. The Bright Lake Association Inc, Iron Bridge, Ontario.
+
+--. 2011. Water quality and remediation options for Four Wells Lake, Waterloo, Ontario. Report to The Club Willowells, Waterloo, Ontario.
+
+--. 2010. Quantification of internal phosphorus load in Bouchie Lake near Quesnel, BC. British Columbia Ministry of Environment, Williams Lake.
+
+### 2000-2009 {#y2000}
+
+__Freshwater Research__ 2009. Bouchie Lake near Quesnel, BC: Remediation options to diminish internal phosphorus load. British Columbia Ministry of Environment, Williams Lake.
+
+--. 2008. Cherry Creek Reservoir Model and proposed Chlorophyll Standard. Cherry Creek Basin Water Quality Authority, Colorado.
+
+--. 2008. Internal load estimates for the Rice Creek Watershed District SW Urban Lakes Study. Emmons & Olivier Resources, Inc.
+
+--. 2007. Impact of the planned Canisteo Pit (31-1282) Diversion on Trout Lake’s (31-216) Water Quality. State of Minnesota and the Minnesota Pollution Control Agency.
+
+--. 2007. Current Water Quality and Remediation Options for the Coves, London, Ontario. The Friends of the Coves Subwatershed, Inc.
+
+--. 2006. Reservoir Water Quality Treatment Study, II. Water quality assessment and modeling for the North Thames River watershed, including its major reservoirs and Pittock Lake on the Thames River. The Upper Thames River Conservation Authority and The Sierra Club of Canada.
+
+--. 2005. Water quality trends of Lake Wilcox, 1986 to 2004. Michalski Nielson Associates, Ontario.
+
+--. 2005. Reservoir Water Quality Treatment Study I, Includes Water Quality Assessment and Modeling for the reservoirs Fanshawe Lake, Wildwood, and Pittock. Report to The Upper Thames River Conservation Authority and The Sierra Club of Canada.
+
+--. 2003. Water Quality and Restoration Options for Morgan Pond, Muskoka. Pam Carnochon & Jamie Honderich of The Morgan House, Huntsville, Ontario.
+
+__Freshwater Research__ and Michalski Nielsen Associates. 2003. Addendum to Limnological Feasibility of Park Lake. Neamsby Investments Inc., Toronto, Ontario
+
+__Freshwater Research__. 2003. Water quality trends of Lake Wilcox, 1986 to 2002. Michalski Nielson Associates, Ontario.
+
+--. 2002. Limnological and Management Assessment of Lake Lynn Louise. Dr. James Michaels, Oconomowoc, Wisconsin.
+
+Ecosystem Strategies and __Freshwater Research__. 2002. Lake Mitchell alum treatment systems, report and recommendations. City of Lake Mitchell, South Dakota.
+
+__Freshwater Research__ and Ecosystem Strategies. 2002. Water Quality Assessment and Modeling. City of Lake Mitchell, South Dakota.
+
+__Freshwater Research__ and Michalski Nielsen Associates. 2002. Limnological Feasibility of Park Lake. Neamsby Investments Inc., Toronto, Ontario.
+
+__Freshwater Research__ and Brown and Caldwell. 2001. Modeling Brownlee Reservoir Water Quality. City of Boise, Idaho.
+
+--. 2001. Quantification of epilimnetic anoxia and hypoxia in Brownlee Reservoir. City of Boise, Idaho.
+
+--. 2001. Relationships between anoxia and flows in Brownlee Reservoir. City of Boise, Idaho.
+
+--. 2001. Assessment of Brownlee Reservoir, Idaho, Water Quality. City of Boise, Idaho.
+
+__Freshwater Research__. 2000. The Planktothrix rubescens bloom of Lake Wilcox (1998-1999): Determination of the causes and recommendations for future management. Town of Richmond Hill, Ontario.
+
+--. 2000. Suburban Development: Review of pollutants in surface runoff and their remediation. Michalski Nielson Associates, Ontario.
+
+--. 2000. Limnological and management assessment of Lake Wilcox. Town of Richmond Hill, Ontario.
+
+--. 2000. Modeling future scenarios for Cherry Creek Reservoir. Cherry Creek Basin Water Quality Authority, Colorado.
+
+--. 2000. Cherry Creek Reservoir Dynamic Model. Cherry Creek Basin Water Quality Authority, Colorado.
+
+### 1990-1999 {#y1990}
+
+
+__Freshwater Research__ and Brown and Caldwell. 1999. Field Sampling Manual, to support the Brownlee Reservoir phosphorus TMDL. City of Boise, Idaho.
+
+Chadwick Ecological Consultants, Inc., J.R. Jones and __G.K. Nürnberg__. 1998. Analysis of the phosphorus loads to Cherry Creek Reservoir. Cherry Creek Basin Water Quality Authority, Colorado.
+
+__Freshwater Research__. 1998. Water quality assessment and phosphorus modelling of South Lake, Haliburton. South Lake Association, Township of Snowdon, Haliburton, Ontario.
+
+--. 1998. Evaluation of the water quality and restoration options of Brome Lake, Quebec. Town of Brome Lake, Knowlton, Lac Brome, Quebec.
+
+--. 1998. Complete revision of the Water Quality Model of the District of Muskoka. District Municipality of Muskoka, Ontario.
+
+__Nürnberg, G.K.__ 1997. Modeling the phosphorus and suspended solids removal in wet stormwater detention ponds, urban lakes and wetlands. Michael Michalski Associates, ON.
+
+--. 1996. Evaluation of the water quality of Standley Lake with special emphasis on oxygen depletion. City of Arvada, Colorado. 23 p.
+
+Michalski, M. and __G.K. Nürnberg__ 1996. Trophic state evaluation Lake Wilcox, Functional Servicing Plan, Study Areas A and B, OPA 129, Town of Richmond Hill. Town of Richmond Hill, ON
+
+Gartner Lee and __Freshwater Research__ 1996. Lake Wilcox remediation strategy. Town of Richmond Hill, ON
+
+__Nürnberg, G.K.__ 1995. Limnology, phosphorus modeling and in-lake restoration options for Lake Wilcox, Oakridges Moraine, Ontario. Town of Richmond Hill, ON
+
+--. 1995. Phosphorus Dynamics in Brownwater Lakes. Department of Fisheries and Oceans, Sault Ste. Marie, Ontario.
+
+--. 1994. How to update the Water Quality Computer Model of the District of Muskoka - A Guide and Handbook. District Municipality of Muskoka, ON.
+
+--. 1994. The evaluation of hypolimnetic anoxia and internal phosphorus load from historical data for North Muldrew Lake, Muskoka. District Municipality of Muskoka, Ontario.
+
+--. 1993. Literature Review of Phosphorus Dynamics and Primary Productivity in Dystrophic Bog Lakes. Department of Fisheries and Oceans, Sault Ste. Marie, Ontario.
+
+--. 1993. Temperature, turbidiy, suspended solids and total phosphorus changes in a series of creeks and settling ponds at different precipitation scenarios (spreadsheet simulation). Michael Michalski Associates.
+
+--. 1992. The trophic state of Glen Lake with emphasis on hypolimnetic anoxia and sediment release of phosphorus. Glen Lake Association, Michigan.
+
+__Nürnberg, G.K.__ and P.G. Manning. 1991. Upwards migration of iron and phosphorus compounds in anoxic sediments from a mesotrophic lake on the Precambrian Shield. Water Resources Branch of the Ontario Ministry of the Environment, PIBS 1756.
+
+### 1980-1990 {#y1980}
+
+__Nürnberg, G.K.__ 1986. Evaluations and recommendations for the operation of two in-lake restoration systems of hypolimnetic withdrawal. Lake Waramaug Task Force
+
+--. Phosphorus budget for Gravenhurst Bay of Lake Muskoka, and predictions of phosphorus, oxygen and chlorophyll for different levels of sewage treatment plant effluents. Ontario Ministry of the Environment, Central Region, Toronto.

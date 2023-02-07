@@ -1,0 +1,10 @@
+---
+title: Curriculum Vitae
+---
+
+- Dr. Gertrud Nürnberg ([about](about.html#gertrud) | [html](cv_gertrud.html) | [pdf](assets/cv_gertrud.pdf))
+
+- Dr. Bruce LaZerte ([about](about.html#bruce) | [html](cv_bruce.html))
+
+- Publication List ([pdf](assets/Publication List.pdf))
+- [One-page company profile](assets/FWR_Profile.pdf)

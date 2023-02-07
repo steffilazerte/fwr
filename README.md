@@ -29,6 +29,7 @@ unless you have another editor you prefer.
 - `assets` - Folder containing extra things (don't actually have to be in a folder, but keeps things tidy)
 - `_site` - Created when you render the website (this is what gets served as the actual site)
 - `_extensions` - Created when you install any Quarto extensions (so we're not reliant on external software)
+- Extra (`.gitignore`, `.quarto/`) for git and Quarto projects
 
 ### Workflow
 
@@ -41,6 +42,9 @@ To work in preview mode, in the terminal:
 To render without previewing
 
 `quarto render`
+
+Once a site has been rendered, the files you need to serve are in `_site`. You
+can use GitHub or upload these files to your web hosting service.
 
 ### Extensions
 

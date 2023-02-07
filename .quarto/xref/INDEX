@@ -1,0 +1,32 @@
+{
+  "index.md": {
+    "index.html": "e125845e"
+  },
+  "index.qmd": {
+    "index.html": "13e2866f"
+  },
+  "about.qmd": {
+    "about.html": "7d98bd21"
+  },
+  "contact.qmd": {
+    "contact.html": "d43ad8cc"
+  },
+  "projects.qmd": {
+    "projects.html": "64642077"
+  },
+  "reports.qmd": {
+    "reports.html": "d130e761"
+  },
+  "cv_bruce.qmd": {
+    "cv_bruce.html": "3b2ed1d4"
+  },
+  "fwr.qmd": {
+    "fwr.html": "675f842f"
+  },
+  "cv_gertrud.qmd": {
+    "cv_gertrud.html": "b1c50925"
+  },
+  "cv.qmd": {
+    "cv.html": "803b1dcf"
+  }
+}

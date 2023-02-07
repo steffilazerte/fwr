@@ -1,0 +1,71 @@
+
+:::{.banner}
+
+# **Freshwater Research**
+## *Research-quality studies on lakes, reservoirs and watersheds*
+
+:::
+
+:::{.center}
+[(One-page profile)](/assets/FWR_Profile.pdf)
+:::
+
+---
+
+![](/assets/fwrlogo.gif){width=350 fig-align=center}
+
+[Freshwater Research](/about/) is a research oriented consulting company that performs high quality studies on lakes, reservoirs and watersheds. It was founded in 1984 by the principal, Dr. Gertrud Nürnberg. Typical clients are watershed and reservoir authorities, engineering firms, public interest groups, and municipal, state, provincial and federal levels of government. Freshwater Research sometimes teams with other environmental consultants or co-supervises students in related University departments (E.g., U. of Laval, McGill University).
+
+---
+
+
+## Evaluation & Modelling
+
+- Lakes, reservoirs, and river catchments
+- Nutrients (phosphorus), eutrophication, trophic state
+- Oxygen and temperature
+- Phytoplankton including cyanobacterial blooms, fish
+- Application of mass balance, statistical and other models
+- Prediction of pre- and post-development and remediation scenarios
+
+![](/assets/secchi.jpg){width=450 fig-align=center}
+
+## Consulting and Feasibility Studies for Lake Restoration
+
+- Lake or Reservoir bottom water withdrawal
+- Addition of phosphorus adsorbing chemicals, e.g., Phoslock (lanthanum modified clay)
+- Lake circulation and aeration
+- Catchment remediation
+- Stormwater detention ponds
+- Extensive case study file
+
+![](/assets/cyanobacteria.jpg){width=450 fig-align=center}
+
+## Experimental
+
+- Limnological survey and experimental design, monitoring plans
+
+## Education and Outreach
+
+- Presentations
+- Workshops: [Internal P load (pdf)]({{ site.baseurl }}/assets/Workshops.pdf) at [NALMS](http://www.nalms.org/) Conferences
+- Reports
+- Peer-reviewed and other publications
+- Hands-on activities
+- External adviser and official reviewer for PhD and Master of Science students
+
+![](/assets/goose.jpg){width=450 fig-align=center}
+
+## Clients & Collaborations
+
+- Federal, Provincial and Municipal governments
+- Public interest and lake association groups
+- Private sector, engineering firms
+
+## Location of Projects
+
+- Canada: New Brunswick, Ontario, Quebec, Manitoba, Alberta, British Columbia
+- USA: CT, CO, ID, MI, MN, WI, SD
+- Europe: Germany, Great Britain, Finland, Sweden
+
+![](assets/eutro.jpg){width=450 fig-align=center}

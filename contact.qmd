@@ -1,0 +1,20 @@
+---
+title: Contact
+format: html
+---
+
+__Dr. Gertrud K. Nürnberg__  
+__Dr. Bruce D. LaZerte__
+
+3421 Hwy 117, RR.1   
+Baysville, Ontario   
+P0B 1A0 Canada
+
+
+{{< fa phone >}} Phone: (705) 767-3718  
+{{< fa envelope >}} Email: <gkn@fwr.ca>
+
+{{< fa brands researchgate >}} ResearchGate: <http://www.researchgate.net/profile/Gertrud_Nurnberg>  
+{{< fa brands orcid >}} ORCID: <http://orcid.org/0000-0003-1752-6562>  
+{{< fa brands linkedin >}} LinkedIn: <https://www.linkedin.com/in/gertrud-nurnberg-70732625>
+

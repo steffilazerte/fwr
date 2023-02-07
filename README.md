@@ -4,13 +4,15 @@ Created with Quarto (and optionally RStudio)
 
 Quarto is a standalone program that works in an R pipeline but doesn't actually need R.
 
-There is an R package, `quarto` for working with Quarto in R.
+There is an R package, `quarto` for working with Quarto in R, and all things 
+you do in the terminal can also be done using this package. It's completely up
+to you whether you want to use R or not, but I would recommend working in RStudio
+unless you have another editor you prefer.
 
 ### Getting setup
 
 1. Update your RStudio (this comes with Quarto)
 2. Make sure you have Quarto **v1.2+**
-
   - In R: `quarto::quarto_version()`
   - In the terminal `quarto -v`
 

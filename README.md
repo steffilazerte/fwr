@@ -13,8 +13,8 @@ unless you have another editor you prefer.
 
 1. Update your RStudio (this comes with Quarto)
 2. Make sure you have Quarto **v1.2+**
-  - In R: `quarto::quarto_version()`
-  - In the terminal `quarto -v`
+    - In R: `quarto::quarto_version()`
+    - In the terminal `quarto -v`
 
 3. If not, [download](https://quarto.org/docs/get-started/) and install it.
 

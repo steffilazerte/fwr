@@ -27,7 +27,9 @@ unless you have another editor you prefer.
 - `fwr.Rproj` - This is the RStudio project file
 - `README.md` - ME!
 - `assets` - Folder containing extra things (don't actually have to be in a folder, but keeps things tidy)
-- `_site` - Created when you render the website (this is what gets served as the actual site)
+- `docs` - Created when you render the website (this is what gets served as the actual site)
+    - Note that I changed this from `_site` to `docs` to serve it on GitHub pages, 
+    but it could easily be changed back
 - `_extensions` - Created when you install any Quarto extensions (so we're not reliant on external software)
 - Extra (`.gitignore`, `.quarto/`) for git and Quarto projects
 

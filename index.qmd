@@ -1,5 +1,5 @@
 
-:::{.banner}
+:::{.banner style="background-image: url('assets/boulder_wide.jpg')"}
 
 # **Freshwater Research**
 ## *Research-quality studies on lakes, reservoirs and watersheds*

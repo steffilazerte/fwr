@@ -7,14 +7,14 @@
 :::
 
 :::{.center}
-[(One-page profile)](/assets/FWR_Profile.pdf)
+[(One-page profile)](assets/FWR_Profile.pdf)
 :::
 
 ---
 
-![](/assets/fwrlogo.gif){width=350 fig-align=center}
+![](assets/fwrlogo.gif){width=350 fig-align=center}
 
-[Freshwater Research](/about/) is a research oriented consulting company that performs high quality studies on lakes, reservoirs and watersheds. It was founded in 1984 by the principal, Dr. Gertrud Nürnberg. Typical clients are watershed and reservoir authorities, engineering firms, public interest groups, and municipal, state, provincial and federal levels of government. Freshwater Research sometimes teams with other environmental consultants or co-supervises students in related University departments (E.g., U. of Laval, McGill University).
+[Freshwater Research](about.html) is a research oriented consulting company that performs high quality studies on lakes, reservoirs and watersheds. It was founded in 1984 by the principal, Dr. Gertrud Nürnberg. Typical clients are watershed and reservoir authorities, engineering firms, public interest groups, and municipal, state, provincial and federal levels of government. Freshwater Research sometimes teams with other environmental consultants or co-supervises students in related University departments (E.g., U. of Laval, McGill University).
 
 ---
 
@@ -28,7 +28,7 @@
 - Application of mass balance, statistical and other models
 - Prediction of pre- and post-development and remediation scenarios
 
-![](/assets/secchi.jpg){width=450 fig-align=center}
+![](assets/secchi.jpg){width=450 fig-align=center}
 
 ## Consulting and Feasibility Studies for Lake Restoration
 
@@ -39,7 +39,7 @@
 - Stormwater detention ponds
 - Extensive case study file
 
-![](/assets/cyanobacteria.jpg){width=450 fig-align=center}
+![](assets/cyanobacteria.jpg){width=450 fig-align=center}
 
 ## Experimental
 
@@ -48,13 +48,13 @@
 ## Education and Outreach
 
 - Presentations
-- Workshops: [Internal P load (pdf)]({{ site.baseurl }}/assets/Workshops.pdf) at [NALMS](http://www.nalms.org/) Conferences
+- Workshops: [Internal P load (pdf)](assets/Workshops.pdf) at [NALMS](http://www.nalms.org/) Conferences
 - Reports
 - Peer-reviewed and other publications
 - Hands-on activities
 - External adviser and official reviewer for PhD and Master of Science students
 
-![](/assets/goose.jpg){width=450 fig-align=center}
+![](assets/goose.jpg){width=450 fig-align=center}
 
 ## Clients & Collaborations
 

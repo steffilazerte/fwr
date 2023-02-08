@@ -8,7 +8,7 @@ Freshwater Research consists of two scientists, Dr. Gertrud Nürnberg and Dr. Br
 
 ### Dr. Gertrud Nürnberg {#gertrud}
 
-![](/assets/gertrud2.jpg){width=300px style="float:right;margin:20px"}
+![](assets/gertrud2.jpg){width=300px style="float:right;margin:20px"}
 
 Gertrud is an environmental scientist with over 30 years of experience studying and modeling the geochemistry of lakes and reservoirs (Ph.D. 1984, McGill University, Montreal, Canada). She develops models to predict average nutrient concentrations in lakes and reservoirs, including those that are polluted or anoxic (oxygen-free at the bottom). Past experience includes the determination of watershed (external) and sediment (internal) loadings of nutrients and other pollutants, the establishment of lake nutrient objectives and TMDLs (Total Maximum Daily Loads) for municipal and state agencies, and the estimation of anoxia in more eutrophic waters. She is a past Director of the Eastern Canada Region of [NALMS (North American Lake Management Society)](http://www.NALMS.org) and was associated editor of NALMS' peer-reviewed journal Lake and Reservoir Management from 1996 to 2013. 
 
@@ -20,7 +20,7 @@ Gertrud Nürnberg has been frequently invited to speak at conferences, universit
 
 ### Dr. Bruce LaZerte {#bruce}
 
-![](/assets/bruce2.jpg){width=300px style="float:right;margin:20px"}
+![](assets/bruce2.jpg){width=300px style="float:right;margin:20px"}
 
 Bruce is an environmental scientist with statistical training (Ph.D. 1978, M.A. Statistics 1975, University of Michigan, USA) and has many years of experience studying and modeling the hydro-geochemistry of upland catchments, wetlands and lakes. His research has included the impact of "acid rain" on forested catchments and wetlands, aluminum and acidified soil geochemistry, aqueous toxicology and toxic trace metal geochemistry. He has also developed daily, time-dynamic, mass balance models for nutrients in lakes and reservoirs and studied stable carbon isotope ratios in lake plankton and sediments.
 

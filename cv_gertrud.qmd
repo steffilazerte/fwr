@@ -156,15 +156,15 @@ __1985__ Determination of sediment water interactions in Gravenhurst Bay (experi
 
 ## Publications
 
-Tammeorg, O., Nürnberg, G., T?nno, I., Kisand, A., Tuvikene, L., N?ges, T., N?ges, P., 2022a. Sediment phosphorus mobility in V?rtsj?rv, a large shallow lake: Insights from phosphorus sorption experiments and long-term monitoring. Science of The Total Environment 154572.
+Tammeorg, O., Nürnberg, G., Tõnno, I., Kisand, A., Tuvikene, L., Nõges, T., Nõges, P., 2022a. Sediment phosphorus mobility in Võrtsjärv, a large shallow lake: Insights from phosphorus sorption experiments and long-term monitoring. Science of The Total Environment 154572.
 
-Tammeorg, O., Nürnberg, G.K., N?ges, P., Niemist?, J., 2022b. The role of humic substances in sediment phosphorus release in northern lakes. Science of The Total Environment 833, 155257. https://doi.org/10.1016/j.scitotenv.2022.155257
+Tammeorg, O., Nürnberg, G.K., Nõges, P., Niemistö, J., 2022b. The role of humic substances in sediment phosphorus release in northern lakes. Science of The Total Environment 833, 155257. https://doi.org/10.1016/j.scitotenv.2022.155257
 
-Tammeorg, O., Nürnberg, G., Horppila, J., Haldna, M., Niemist?, J., 2020a. Redox-related release of phosphorus from sediments in large and shallow Lake Peipsi: Evidence from sediment studies and long-term monitoring data. Journal of Great Lakes Research 46, 1595-1603. https://doi.org/10.1016/j.jglr.2020.08.023
+Tammeorg, O., Nürnberg, G., Horppila, J., Haldna, M., Niemistö, J., 2020a. Redox-related release of phosphorus from sediments in large and shallow Lake Peipsi: Evidence from sediment studies and long-term monitoring data. Journal of Great Lakes Research 46, 1595-1603. https://doi.org/10.1016/j.jglr.2020.08.023
 
-Tammeorg, O., Nürnberg, G., Niemist?, J., Haldna, M., Horppila, J., 2020b. Internal phosphorus loading due to sediment anoxia in shallow areas: implications for lake aeration treatments. Aquatic Sciences 82. https://doi.org/10.1007/s00027-020-00724-0
+Tammeorg, O., Nürnberg, G., Niemistö, J., Haldna, M., Horppila, J., 2020b. Internal phosphorus loading due to sediment anoxia in shallow areas: implications for lake aeration treatments. Aquatic Sciences 82. https://doi.org/10.1007/s00027-020-00724-0
 
-Ventel?, A.-M., Ekholm, P., Kirkkala, T., Lehtoranta, J., Nürnberg, G.K., Tarvainen, M., Sarvala, J., 2020. A review of internal phosphorus loading evidence in S?kyl?n Pyh?j?rvi, Finland. In 'A.D. Steinman and B.M. Spears (Eds.), Internal Phosphorus Loading:  Causes, Case Studies, and Management' 'Chapter 18'. J. Ross Publishing, Plantation, FL, pp. 345-357.
+Ventelä, A.-M., Ekholm, P., Kirkkala, T., Lehtoranta, J., Nürnberg, G.K., Tarvainen, M., Sarvala, J., 2020. A review of internal phosphorus loading evidence in Säkylän Pyhäjärvi, Finland. In 'A.D. Steinman and B.M. Spears (Eds.), Internal Phosphorus Loading:  Causes, Case Studies, and Management' 'Chapter 18'. J. Ross Publishing, Plantation, FL, pp. 345-357.
 
 __Nürnberg, G.K.__ 2020. Internal phosphorus loading models: A critical review. In: A.D. Steinman and B.M. Spears (Eds.), Internal Phosphorus Loading:  Causes, case studies, and management. Plantation, FL: J. Ross Publishing. p. 45-62.
 
@@ -423,7 +423,7 @@ __Nürnberg, G.K.__ 2000. Three Presentations in the Expert Forum on Establishin
 
 --. 1996. Coping with water quality problems due to hypolimnetic anoxia in two hardwater lakes and the prevention of these problems in softwater lakes. 31st Central Canadian Symposium on Water Pollution Research, Burlington, Ontario (Invited).
 
---. 1995. Lake trophy revisited: The importance of morphometry, geochemistry and anoxia. 15th Annual International Symposium of the North American Lake Management Society, Toronto, Ontario. (Session Chair: Lake restoration: When and why ?).
+--. 1995. Lake trophy revisited: The importance of morphometry, geochemistry and anoxia. 15th Annual International Symposium of the North American Lake Management Society, Toronto, Ontario. (Session Chair: Lake restoration: When and why?).
 
 --. 1995. Modeling phosphorus in lakes with possible sediment phosphorus release, case studies. 15th Annual International Symposium of the North American Lake Management Society, Toronto, Ontario.
 

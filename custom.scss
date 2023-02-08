@@ -39,12 +39,19 @@ h2, h4 {
   text-align: center;
   text-shadow: 2px 2px 2px rgba(0,0,0,1);
   color: white;
-  font-size: 3em;
-}
-
-.banner p {
+  font-size: 240%;
   line-height: 1;
   margin: 0;
+}
+
+.banner-small {
+  font-size: 50%;
+}
+
+@media screen and (max-width: 600px) {
+  .banner {
+    font-size: 200%;
+  }
 }
 
 .center {

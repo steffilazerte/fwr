@@ -1,8 +1,17 @@
 ---
 title: Curriculum Vitae
 subtitle: Gertrud K. Nürnberg
-toc: true
+format: 
+  html:
+    toc: true
+  pdf:
+    toc: false
 ---
+
+:::{.content-visible when-format="html" .center}
+*[PDF version](cv_gertrud.pdf)*
+:::
+
 
 Freshwater Research  
 3421 Hwy 117, R.R. #1  

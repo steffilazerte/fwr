@@ -1,4 +1,12 @@
 
+
+```{r, include = FALSE}
+# Creates publications_list.qmd
+source("get_publications.R")
+```
+
+
+
 ::::{.banner style="background-image: url('assets/boulder_wide.jpg')"}
 **Freshwater Research**
 

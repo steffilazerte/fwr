@@ -48,15 +48,12 @@ To render without previewing
 Once a site has been rendered, the files you need to serve are in `_site`. You
 can use GitHub or upload these files to your web hosting service.
 
-### Steps
+There is a script, `publications_list.R` that is rendered in `index.qmd`.
 
-**See the `RUN.R` script**
-
-- Run/source `publications_list.R` (creates `publications_list.qmd`)
-- Run in terminal `quarto render` or in R, `quarto::quarto_render()`
-
-
-
+**Note:** This should update the `publications_list.qmd` file on each render, 
+automatically, *but* if a `publications_list.qmd` doesn't exist, you'll have to 
+run `quarto render` twice (once to create it, and once to render it). 
+After that you should be find, though. 
 
 ### Extensions
 

@@ -3,6 +3,7 @@ project:
   type: website
   resources: "assets"
   render:
+    - index.qmd
     - "*.qmd"
 
 filters:

@@ -6,5 +6,5 @@ title: Curriculum Vitae
 
 - Dr. Bruce LaZerte ([about](about.html#bruce) | [html](cv_bruce.html))
 
-- Publication List ([pdf](assets/Publication List.pdf))
+- Publication List ([pdf](publications_list.pdf))
 - [One-page company profile](assets/FWR_Profile.pdf)

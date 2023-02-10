@@ -1,0 +1,134 @@
+---
+format: pdf
+---
+
+![](assets/fwrlogo.png){width=250 fig-align=right}
+
+*Feb 2023*
+
+**List of Publications by Gertrud K. Nürnberg**
+
+{{< fa globe >}} Website: <http://www.fwr.ca>    
+{{< fa brands researchgate >}} ResearchGate: <http://www.researchgate.net/profile/Gertrud_Nurnberg>      
+{{< fa brands orcid >}} ORCID: <http://orcid.org/0000-0003-1752-6562>    
+
+## Publications
+
+Tammeorg, O., Nürnberg, G., Tõnno, I., Kisand, A., Tuvikene, L., Nõges, T., Nõges, P., 2022a. Sediment phosphorus mobility in Võrtsjärv, a large shallow lake: Insights from phosphorus sorption experiments and long-term monitoring. Science of The Total Environment 154572.
+
+Tammeorg, O., Nürnberg, G.K., Nõges, P., Niemistö, J., 2022b. The role of humic substances in sediment phosphorus release in northern lakes. Science of The Total Environment 833, 155257. https://doi.org/10.1016/j.scitotenv.2022.155257
+
+Tammeorg, O., Nürnberg, G., Horppila, J., Haldna, M., Niemistö, J., 2020a. Redox-related release of phosphorus from sediments in large and shallow Lake Peipsi: Evidence from sediment studies and long-term monitoring data. Journal of Great Lakes Research 46, 1595-1603. https://doi.org/10.1016/j.jglr.2020.08.023
+
+Tammeorg, O., Nürnberg, G., Niemistö, J., Haldna, M., Horppila, J., 2020b. Internal phosphorus loading due to sediment anoxia in shallow areas: implications for lake aeration treatments. Aquatic Sciences 82. https://doi.org/10.1007/s00027-020-00724-0
+
+Ventelä, A.-M., Ekholm, P., Kirkkala, T., Lehtoranta, J., Nürnberg, G.K., Tarvainen, M., Sarvala, J., 2020. A review of internal phosphorus loading evidence in Säkylän Pyhäjärvi, Finland. In 'A.D. Steinman and B.M. Spears (Eds.), Internal Phosphorus Loading:  Causes, Case Studies, and Management' 'Chapter 18'. J. Ross Publishing, Plantation, FL, pp. 345-357.
+
+__Nürnberg, G.K.__ 2020. Internal phosphorus loading models: A critical review. In: A.D. Steinman and B.M. Spears (Eds.), Internal Phosphorus Loading:  Causes, case studies, and management. Plantation, FL: J. Ross Publishing. p. 45-62.
+
+--. 2020. Observed and modelled internal phosphorus loads in stratified and polymictic basins of a mesotrophic lake. In: A.D. Steinman and B.M. Spears (Eds.), Internal Phosphorus Loading:  Causes, case studies, and management. Plantation, FL: J. Ross Publishing. p. 111-123.
+
+--. 2019. Quantification of Anoxia and Hypoxia in Water Bodies (2). In: Water Encyclopedia. John Wiley & Sons, Inc. DOI  10.1002/9781119300762.wsts0081
+
+--. 2019. Hypolimnetic withdrawal as a lake restoration technique: Determination of feasibility and continued benefits. Hydrobiologia 00:000-000
+
+__Nürnberg, G.K.__ T. Howell, M. Palmer. 2019. 28 years of impact from Central Basin hypoxia and internal phosphorus loading on north shore water quality in Lake Erie. Inland Waters 9: 362-373. doi.org/10.1080/20442041.2019.1568072
+
+__Nürnberg, G.K.__ R. Fischer, A. Paterson. 2018. Reduced phosphorus retention by anoxic bottom sediments after the remediation of an industrial acidified lake area: Indications from P, Al, and Fe sediment fractions. Science of the Total Environment 626: 412–422.
+
+__Nürnberg, G.K.__ 2017. Attempted management of cyanobacteria by Phoslock (lanthanum-modified clay) in Canadian lakes, water quality results and predictions. Lake and Reservoir Management 33, 163-170. DOI: 10.1080/10402381.2016.1265618
+
+__Nürnberg, G.K.__ and B.D. LaZerte. 2016. Trophic state decrease after lanthanum-modified bentonite (Phoslock) application to a hyper-eutrophic polymictic urban lake frequented by Canada geese (_Branta canadensis_). Lake and Reservoir Management 32, 74-88. DOI: 10.1080/10402381.2015.1133739
+
+--. 2016. More than 20 years of estimated internal phosphorus loading in polymictic, eutrophic Lake Winnipeg, Manitoba. J. Great Lakes Res. 42, 18-27. DOI: 10.1016/j.jglr.2015.11.003
+
+Spears, B.M., E.B. Mackay, S. Yasseri, I.D.M. Gunn, K.E. Waters, C. Andrews, S. Cole, M. de Ville, A. Kelly, S. Meis, A.L. Moore, __G.K. Nürnberg__, F. van Oosterhout, J.-A. Pitt, G. Madgwick, H.J. Woods and M. Lürling. 2016. A meta-analysis of water quality and aquatic macrophyte responses in 18 lakes treated with lanthanum modified bentonite (PHOSLOCK®). Water Research. DOI: 10.1016/j.watres.2015.08.020
+
+__Nürnberg, G.K.__, B.D. LaZerte, P.S. Loh, L.A. Molot. 2013. Quantification of internal phosphorus load in large, partially polymictic and mesotrophic Lake Simcoe, Ontario. J Great Lakes Res 39, 271-279.
+
+__Nürnberg, G.K.__, L.A. Molot, E. O’Connor, H. Jarjanazi, J.G. Winter and J.D. Young. 2013. Evidence for internal phosphorus loading, hypoxia and effects on phytoplankton in partially polymictic Lake Simcoe, Ontario. J Great Lakes Res 39, 259-270.
+
+Loh, P.S., L.A. Molot, __G.K. Nürnberg__, S.B. Watson and B. Ginn. 2013. Evaluating relationships between sediment chemistry and anoxic phosphorus and iron release across three different water bodies. Inland Waters 3, 105-117.
+
+__Nürnberg, G.K.__, M. Tarvainen, A.-M. Ventelä and J. Sarvala. 2012. Internal phosphorus load estimation during biomanipulation in a large polymictic and mesotrophic lake Inland Waters 2, 147-162.
+
+Labrecque V, __G.K. Nürnberg__, R. Tremblay and R. Pienitz. 2012. Caractérisation de la charge interne de phosphore du lac Nairne, Charlevoix, Québec (in French). - Internal phosphorus load assessment of Lake Nairne, Charlevoix, Quebec. Rev. Sci. L'Eau: 25 (1):77-93.
+
+__Nürnberg, G.K.__ 2009. Assessing internal phosphorus load – problems to be solved, Lake and Reservoir Management, 25(4): 419-432.
+
+Conley, D.J., S. Björck, E. Bonsdorff, J. Carstensen, G. Destouni, B.G. Gustafsson, S. Hietanen, M. Kortekaas, H. Kuosa, H.E.M. Meier, B. Müller-Karulis, K. Nordberg, A. Norkko, __G.K. Nürnberg__, H. Pitkänen, N.N. Rabalais, R. Rosenberg, O.P. Savchuk, C.P. Slomp, M. Voss, F. Wulff and L. Zillén. 2009. Critical Review: Hypoxia-related processes in the Baltic Sea. Environ. Sci. Technol. 43: 3412-3420.
+
+Cyr, H., S.K. McCabe and __G.K. Nürnberg__. 2009. Phosphorus sorption experiments and the potential for internal phosphorus loading in littoral areas of a stratified lake. Water Res. 43:1654-1666
+
+__Nürnberg, G.K.__ 2007. Low-Nitrate-Days (LND), a potential indicator of cyanobacteria blooms in a eutrophic hardwater reservoir. Water Quality Research Journal of Canada 42: 269-283.
+
+--. Lake responses to long-term hypolimnetic withdrawal treatments. Lake and Reservoir Management 23: 388-409.
+
+__Nürnberg, G.K.__ 2005. Quantification of internal phosphorus loading in polymictic lakes. Verhandlungen Internationalen Vereinigung Limnologie (SIL) 29: 623-626.
+
+Cyr, H. and __G.K. Nürnberg__. 2005. Methodological biases in phosphate sorption experiments. p. 55-66 in  L. Serrano and H.L. Golterman (editors), Phosphates in Sediments, Proceedings of the 4th International Symposium. Backhuys Publishers, the Netherlands.
+
+__Nürnberg, G.K.__ 2004. Quantified hypoxia and anoxia in lakes and reservoirs. TheScientificWorld 4, 42-54.
+
+--. 2005. Internal phosphorus loading or "the devil is in the sediments". Lake Stewardship Newsletter, 9-10.
+
+__Nürnberg, G.K.__ and B.D. LaZerte. 2004. Modeling the effect of development on internal phosphorus load in nutrient-poor lakes. Water Resources Research 40: W01105. doi:10.1029/2003WR002410
+
+Havens K.E. and __G.K. Nürnberg__. 2004. The Phosphorus-Chlorophyll Relationship in Lakes: Potential Influences of Color and Mixing Regime. Lake and Reservoir Management 20, 000-000.
+
+__Nürnberg, G.K.__ and B.D. LaZerte. 2003/4. Ontario lakes: The importance of lake management. NALMS Lakeline 23 (4): 32-37.
+
+__Nürnberg, G.K.__, B.D. LaZerte and D.D. Olding. 2003. An artificially induced Planktothrix rubescens surface bloom in a small kettle lake in southern Ontario compared to blooms world-wide. Lake and Reservoir Management 19: 307-322.
+
+__Nürnberg, G.K.__ 2002. Probability of winterkill in Central Ontario lakes. Newsletter of the American Fisheries Society Southern Ontario Chapter, Sep 2002: 2-3
+
+--. 2002. Quantification of oxygen depletion in lakes and reservoirs with the hypoxic factor. Lake and Reservoir Management 18, 298-305.
+
+--. 2001. Eutrophication and Trophic State - Why does lake water (quality) differ from lake to lake? NALMS Lakeline 21(1): 29-33.
+
+__Nürnberg, G.K.__ and B.D. LaZerte. 2001. Predicting Water Quality, Chapter 5, p. 139-163 in C. Holdren, B. Jones and J. Taggert (eds.), Managing Lakes and Reservoirs, 3rd ed., North American Lake Management Society, Terrene Inst. and US-EPA, EPA 841-B-01-006.
+
+__Nürnberg, G.K.__ 1999.  Determining trophic state in experimental lakes. - Comment. Limnology and Oceanography 44: 1176-1179.
+
+__Nürnberg, G.K.__ and M. Shaw. 1999. Productivity of clear and humic lakes: nutrients, phytoplankton, bacteria. Hydrobiologia 382: 97-112.
+
+__Nürnberg, G.K.__ 1998. Prediction of annual and seasonal phosphorus concentrations in stratified and polymictic lakes. Limnology and Oceanography 43: 1544-1552.
+
+--. 1997. Coping with water quality problems due to hypolimnetic anoxia in Central Ontario Lakes. Water Quality Research Journal of Canada 32: 391-405.
+
+--. 1996. Trophic state of clear and coloured, soft-and hardwater lakes with special consideration of nutrients, anoxia, phytoplankton and fish. Lake and Reservoir Management 12: 432-447.
+
+--. 1996. Comment: Phosphorus budgets and stoichiometry during the open-water season in two unmanipulated lakes in the Experimental Lakes Area, northwestern Ontario. Canadian J. Fisheries Aquatic Science 53: 1469-1471.
+
+--. 1995. Quantifying anoxia in lakes. Limnology and Oceanography 40: 1100-1111.
+
+--. 1995. Anoxic factor, a quantitative measure of anoxia and fish species richness in Central Ontario lakes. Transactions of the American Fisheries Society 124: 677-686.
+
+--. 1994. Phosphorus release from anoxic sediments: What we know and how we can deal with it. Limnetica 10: 1-4.
+
+__Nürnberg, G.K.__ and P.J. Dillon. 1993. Iron budgets in temperate lakes.  Canadian J. Fisheries Aquatic Science 50: 1728-1737.
+
+__Nürnberg, G.K.__ 1991. Phosphorus from internal sources in the Laurentian Great Lakes, and the concept of threshold external load. J. Great Lakes Research 17: 132-140.
+
+--. 1988. The prediction of phosphorus release rates from total and reductant-soluble phosphorus in anoxic lake sediments. Can. J. Fisheries Aquatic Science 45: 453-462.
+
+--. 1988. A simple model for predicting the date of fall turnover in thermally stratified lakes. Limnology and Oceanography 33: 1190-1195.
+
+--. 1987. A comparison of internal phosphorus loads in lakes with anoxic hypolimnia: laboratory incubations versus hypolimnetic phosphorus accumulation. Limnology and Oceanography 32: 1160-1164.
+
+--. 1987. Hypolimnetic withdrawal as a lake restoration technique. American Society of Civil Engineers, J. Environmental Engineering Division 113: 1006-1017.
+
+__Nürnberg, G.K.__, R. Hartley and E. Davis. 1987. Hypolimnetic withdrawal in two North American lakes with anoxic phosphorus release from the sediment. Water Research 21: 923-928.
+
+__Nürnberg, G.K.__, M. Shaw, P.J. Dillon and D.J. McQueen. 1986. Internal phosphorus load in an oligotrophic Precambrian Shield lake with an anoxic hypolimnion. - Canadian J. Fisheries Aquatic Science 43: 574-580.
+
+__Nürnberg, G.K.__ 1985. Availability of phosphorus upwelling from iron-rich anoxic hypolimnia. Archive Hydrobiologia 104: 459-476.
+
+__Nürnberg, G.K.__ and Peters, R.H. 1984: Biological availability of soluble reactive phosphorus in anoxic and oxic freshwaters.  - Canadian J. Fisheries Aquatic Science 41: 757-765.
+
+--. 1984: The importance of internal phosphorus load to the eutrophication of lakes with anoxic hypolimnia. - Verhandlungen  Internationalen Vereinigung Limnologie 22: 190-194.
+
+__Nürnberg, G.K.__ 1984. The prediction of internal phosphorus load in lakes with anoxic hypolimnia. - Limnology and Oceanography 29: 111-124.
+
+-- 1984. Iron and hydrogen sulfide interference in the analysis of SRP in anoxic waters. - Water Research 20: 369-377.
+

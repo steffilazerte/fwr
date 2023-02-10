@@ -14,7 +14,7 @@
 
 ---
 
-![](assets/fwrlogo.gif){width=350 fig-align=center}
+![](assets/fwrlogo.png){width=350 fig-align=center}
 
 [Freshwater Research](about.html) is a research oriented consulting company that performs high quality studies on lakes, reservoirs and watersheds. It was founded in 1984 by the principal, Dr. Gertrud Nürnberg. Typical clients are watershed and reservoir authorities, engineering firms, public interest groups, and municipal, state, provincial and federal levels of government. Freshwater Research sometimes teams with other environmental consultants or co-supervises students in related University departments (E.g., U. of Laval, McGill University).
 

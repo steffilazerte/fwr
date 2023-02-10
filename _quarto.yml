@@ -24,7 +24,7 @@ website:
   navbar:
     title: false
     search: true
-    logo: "/assets/fwrlogo.gif"
+    logo: "/assets/fwrlogo.png"
     background: "white"
     left:
       - about.qmd
@@ -38,7 +38,7 @@ website:
           - text: One-page company profile (pdf)
             href: /assets/FWR_Profile.pdf
           - text: Publication list (pdf)
-            href: assets/Publication%20List.pdf
+            href: publications_list.pdf
       - projects.qmd
       - reports.qmd
     right:

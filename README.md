@@ -48,6 +48,16 @@ To render without previewing
 Once a site has been rendered, the files you need to serve are in `_site`. You
 can use GitHub or upload these files to your web hosting service.
 
+### Steps
+
+**See the `RUN.R` script**
+
+- Run/source `publications_list.R` (creates `publications_list.qmd`)
+- Run in terminal `quarto render` or in R, `quarto::quarto_render()`
+
+
+
+
 ### Extensions
 
 Here we use the `quarto-ext/fontawesome` extension which allows us to include
